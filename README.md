@@ -1,4 +1,4 @@
-code of insertion deletion transitive
+1.  code of insertion deletion transitive
 
 #include <stdio.h>
 
@@ -88,7 +88,7 @@ int main()
 
 
 
-code number 2 linear binary search using switch case
+2.code number 2 linear binary search using switch case
 
 
 
