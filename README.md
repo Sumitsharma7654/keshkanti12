@@ -5,10 +5,15 @@ code of insertion deletion transitive
 int main()
 {
     int n,m,l,k,a[20];
+    
     printf("enter no. of elements");
+    
     scanf("%d",&n);
+    
     printf("enter no. ");
+    
     for(int i=0;i<n;i++)
+    
     {
         scanf("%d",&a[i]);
     }
