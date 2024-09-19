@@ -1,3 +1,5 @@
+code of insertion deletion transitive
+
 #include <stdio.h>
 
 int main()
